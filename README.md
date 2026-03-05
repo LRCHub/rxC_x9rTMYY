@@ -1,4 +1,4 @@
-# オフスプリング – Million Miles Away (Apollo 440 Remix)
+# The Offspring – Million Miles Away (Apollo 440 Remix)
 
 > **歌詞登録ステータス：同期歌詞あり**
 
