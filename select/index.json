@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Million Miles Away (Apollo 440 Remix)",
+  "base_artist": "オフスプリング",
+  "createdAt": "2026-03-05T07:00:11.978956Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Million Miles Away (Apollo 440 Remix)",
+      "artist": "The Offspring",
+      "has_synced": true,
+      "path": "select/01_Million_Miles_Away_(Apollo_440_Remix)_The_Offspring.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Million Miles Away - Apollo 440 Remix",
+      "artist": "The Offspring, Apollo 440",
+      "has_synced": true,
+      "path": "select/02_Million_Miles_Away_-_Apollo_440_Remix_The_Offspring,_Apollo_440.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "A Million Miles Away",
+      "artist": "Belle",
+      "has_synced": false,
+      "path": "select/03_A_Million_Miles_Away_Belle.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "A Million Miles Away",
+      "artist": "Belle",
+      "has_synced": true,
+      "path": "select/04_A_Million_Miles_Away_Belle.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Million Miles Away",
+      "artist": "Kim Wilde",
+      "has_synced": true,
+      "path": "select/05_Million_Miles_Away_Kim_Wilde.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Million Miles Away",
+      "artist": "Hanoi Rocks",
+      "has_synced": true,
+      "path": "select/06_Million_Miles_Away_Hanoi_Rocks.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Million Miles Away",
+      "artist": "Hanoi Rocks",
+      "has_synced": true,
+      "path": "select/07_Million_Miles_Away_Hanoi_Rocks.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "A Million Miles Away",
+      "artist": "Rihanna",
+      "has_synced": false,
+      "path": "select/08_A_Million_Miles_Away_Rihanna.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "A Million Miles Away",
+      "artist": "David Byrne",
+      "has_synced": true,
+      "path": "select/09_A_Million_Miles_Away_David_Byrne.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Million Miles Away",
+      "artist": "TOTO",
+      "has_synced": false,
+      "path": "select/10_Million_Miles_Away_TOTO.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "A Million Miles Away",
+      "artist": "That Petrol Emotion",
+      "has_synced": true,
+      "path": "select/11_A_Million_Miles_Away_That_Petrol_Emotion.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Million Miles Away",
+      "artist": "The Offspring",
+      "has_synced": false,
+      "path": "select/12_Million_Miles_Away_The_Offspring.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Million Miles Away",
+      "artist": "Washed Out",
+      "has_synced": true,
+      "path": "select/13_Million_Miles_Away_Washed_Out.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Million Miles Away",
+      "artist": "Goo Goo Dolls",
+      "has_synced": false,
+      "path": "select/14_Million_Miles_Away_Goo_Goo_Dolls.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Million Miles Away",
+      "artist": "The Goo Goo Dolls",
+      "has_synced": false,
+      "path": "select/15_Million_Miles_Away_The_Goo_Goo_Dolls.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Million Miles Away - Live Version",
+      "artist": "TOTO",
+      "has_synced": false,
+      "path": "select/16_Million_Miles_Away_-_Live_Version_TOTO.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Million Miles Away - Live",
+      "artist": "Goo Goo Dolls",
+      "has_synced": false,
+      "path": "select/17_Million_Miles_Away_-_Live_Goo_Goo_Dolls.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Million Miles Away (Live)",
+      "artist": "The Goo Goo Dolls",
+      "has_synced": false,
+      "path": "select/18_Million_Miles_Away_(Live)_The_Goo_Goo_Dolls.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "A Million Miles Away",
+      "artist": "The Plimsouls",
+      "has_synced": true,
+      "path": "select/19_A_Million_Miles_Away_The_Plimsouls.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Million Miles Away",
+      "artist": "The Offspring",
+      "has_synced": false,
+      "path": "select/pl_01_Million_Miles_Away_The_Offspring.txt"
+    }
+  ]
+}
